@@ -36,8 +36,8 @@
 		C758D1782828DD2C00BA4AA2 /* NumeroTelefonicoCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = C758D1762828DD2C00BA4AA2 /* NumeroTelefonicoCell.xib */; };
 		C758D17B2828DD4700BA4AA2 /* SexoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C758D1792828DD4700BA4AA2 /* SexoCell.swift */; };
 		C758D17C2828DD4700BA4AA2 /* SexoCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = C758D17A2828DD4700BA4AA2 /* SexoCell.xib */; };
-		C758D17E2828E95100BA4AA2 /* ColorTableExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = C758D17D2828E95100BA4AA2 /* ColorTableExtension.swift */; };
 		C758D1802828EBEF00BA4AA2 /* SexoTableExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = C758D17F2828EBEF00BA4AA2 /* SexoTableExtension.swift */; };
+		C77659E028291B720067E443 /* ColorTableExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = C77659DF28291B720067E443 /* ColorTableExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -71,8 +71,8 @@
 		C758D1762828DD2C00BA4AA2 /* NumeroTelefonicoCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NumeroTelefonicoCell.xib; sourceTree = "<group>"; };
 		C758D1792828DD4700BA4AA2 /* SexoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SexoCell.swift; sourceTree = "<group>"; };
 		C758D17A2828DD4700BA4AA2 /* SexoCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SexoCell.xib; sourceTree = "<group>"; };
-		C758D17D2828E95100BA4AA2 /* ColorTableExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorTableExtension.swift; sourceTree = "<group>"; };
 		C758D17F2828EBEF00BA4AA2 /* SexoTableExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SexoTableExtension.swift; sourceTree = "<group>"; };
+		C77659DF28291B720067E443 /* ColorTableExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorTableExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,8 +144,8 @@
 			children = (
 				C7353FA028262802000E45EC /* HomeTableViewExtension.swift */,
 				C758D15D2828DAAA00BA4AA2 /* SelectedOptionTableExtension.swift */,
-				C758D17D2828E95100BA4AA2 /* ColorTableExtension.swift */,
 				C758D17F2828EBEF00BA4AA2 /* SexoTableExtension.swift */,
+				C77659DF28291B720067E443 /* ColorTableExtension.swift */,
 				C717A0622828F5A9002FECD2 /* CameraExtension.swift */,
 				C717A06B282905EF002FECD2 /* TextfieldNombreExtension.swift */,
 				C717A06D2829072B002FECD2 /* TextFieldNumeroExtension.swift */,
@@ -269,6 +269,7 @@
 				C758D17B2828DD4700BA4AA2 /* SexoCell.swift in Sources */,
 				C758D1622828DC3300BA4AA2 /* CamaraCell.swift in Sources */,
 				C758D1732828DCF800BA4AA2 /* NombreCompletoCell.swift in Sources */,
+				C77659E028291B720067E443 /* ColorTableExtension.swift in Sources */,
 				C717A0632828F5A9002FECD2 /* CameraExtension.swift in Sources */,
 				C717A06E2829072B002FECD2 /* TextFieldNumeroExtension.swift in Sources */,
 				C7353FA128262802000E45EC /* HomeTableViewExtension.swift in Sources */,
@@ -278,7 +279,6 @@
 				C758D1802828EBEF00BA4AA2 /* SexoTableExtension.swift in Sources */,
 				C758D1772828DD2C00BA4AA2 /* NumeroTelefonicoCell.swift in Sources */,
 				C758D1672828DC7400BA4AA2 /* ColorFavoritoCell.swift in Sources */,
-				C758D17E2828E95100BA4AA2 /* ColorTableExtension.swift in Sources */,
 				C7353F8C28262398000E45EC /* HomeView.swift in Sources */,
 				C7353F8828262398000E45EC /* AppDelegate.swift in Sources */,
 				C758D16B2828DCAD00BA4AA2 /* FechadeNacimientoCell.swift in Sources */,
