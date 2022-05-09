@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  PruebaiOS
 //
-//  Created by Jordy Gracia on 06/05/22.
+//  Created by Jonathan Gracia on 06/05/22.
 //
 
 import UIKit
