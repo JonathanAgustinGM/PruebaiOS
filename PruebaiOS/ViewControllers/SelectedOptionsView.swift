@@ -2,7 +2,7 @@
 //  SelectedOptionsView.swift
 //  PruebaiOS
 //
-//  Created by Jordy Gracia on 08/05/22.
+//  Created by Jonathan Gracia on 08/05/22.
 //
 
 import UIKit
