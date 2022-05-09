@@ -29,7 +29,7 @@ extension ColorFavoritoCell: UITableViewDelegate {
     }
     func tableView(_ tableView: UITableView, didDeselectRowAt indexPath: IndexPath) {
         if let cell = ColorTable.cellForRow(at: indexPath) {
-            cell.accessoryType = .checkmark
+            cell.accessoryType = .none
     }
 }
 }
